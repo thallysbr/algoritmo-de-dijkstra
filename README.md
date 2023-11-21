@@ -1,4 +1,3 @@
-"# busca-largura-profundidade"
+"# algoritmo-de-dijkstra"
 
 Nome: Thallys Silva dos Santos Correia RA: 2144360
-"# algoritmo-de-dijkstra" 
